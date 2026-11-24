@@ -4,7 +4,7 @@
   "description": "AI product discovery & competitive intelligence across 540K+ products, traffic, Design DNA & 14 MCP tools",
   "category": "marketing",
   "platforms": ["web"],
-  "deal": "25% off Pro ($144→$108/yr) & Max ($384→$288/yr) annual, up to 53% off monthly",
+  "deal": "25% off first year Pro ($108) & Max ($288) annual & pass; up to 53% vs monthly",
   "code": "BF2026",
   "pricing": "subscription",
   "price": { "regular": 144, "sale": 108, "currency": "USD" },
