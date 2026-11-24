@@ -1,0 +1,22 @@
+{
+  "name": "Moordeck",
+  "url": "https://moordeck.com/pricing",
+  "description": "Local-first anti-detect browser with Zero-CDP AI control (MCP, CLI, Playwright) for macOS Apple Silicon & Linux x64 (Windows coming soon)",
+  "category": "developer-tools",
+  "platforms": [
+    "mac",
+    "linux"
+  ],
+  "deal": "25% off Year 1 Pro ($81/yr) & Team ($261/yr) + Solo Lifetime $79 (renews $108/$348)",
+  "code": "BF2026",
+  "pricing": "subscription",
+  "price": {
+    "regular": 108,
+    "sale": 81,
+    "currency": "USD"
+  },
+  "discount": 25,
+  "startDate": "2026-11-24",
+  "endDate": "2026-11-30",
+  "icon": "https://moordeck.com/logo192.png"
+}
